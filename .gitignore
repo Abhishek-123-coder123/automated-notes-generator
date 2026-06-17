@@ -1,0 +1,6 @@
+ai_notes_env/
+__pycache__/
+*.mp3
+*.wav
+*.pdf
+.env

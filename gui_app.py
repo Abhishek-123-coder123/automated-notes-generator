@@ -17,7 +17,7 @@ import google.generativeai as genai
 # =====================================================================
 # 🔑 CONFIGURATION & ENGINE INJECTION
 # =====================================================================
-API_KEY = "AQ.Ab8RN6IR43H15Gonv0wm_yXQiqSBZAe_RNvCbSVZfKw1EG5Hdw"
+API_KEY = ""
 
 try:
     import ffmpeg_binaries

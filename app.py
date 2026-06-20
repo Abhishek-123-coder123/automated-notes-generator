@@ -9,7 +9,7 @@ import google.generativeai as genai
 # =====================================================================
 # 🔑 KEEP YOUR NEW API KEY HERE
 # =====================================================================
-API_KEY = "AQ.Ab8RN6IR43H15Gonv0wm_yXQiqSBZAe_RNvCbSVZfKw1EG5Hdw"
+API_KEY = ""
 
 # =====================================================================
 # DEEP FFMPEG COMPATIBILITY INJECTION
